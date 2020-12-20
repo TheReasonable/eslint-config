@@ -56,6 +56,10 @@ size smaller. A double win!
 
 Extra semicolons are unnecessary and pollute source code.
 
+### [`no-trailing-spaces`](https://eslint.org/docs/rules/no-trailing-spaces#rule-details)
+
+Trailing spaces are useless and only take space.
+
 ### [`semi: always`](https://eslint.org/docs/rules/semi#always)
 
 Mandatory semicolons help people make less errors by not making them think about
