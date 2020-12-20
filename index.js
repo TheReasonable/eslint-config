@@ -7,6 +7,7 @@ module.exports = {
 			'error',
 			'always-multiline',
 		],
+		complexity: 'warn',
 		curly: [
 			'error',
 			'all',

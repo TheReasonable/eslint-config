@@ -34,6 +34,11 @@ Every `--fix`able rule is always an `error`.
 Dangling commas at the end of multi-line literals (arrays, objects) can clean up
 your git diffs and save your from conflicts.
 
+### [`complexity`](https://eslint.org/docs/rules/complexity#rule-details)
+
+Reducing the cyclomatic complexity of the code improves readability and reduces
+error risk. This is not an enforcement though, but a recommendation.
+
 ### [`curly: all`](https://eslint.org/docs/rules/curly#all)
 
 Not using curly braces in `if`, `while` and other statements decreases the code
