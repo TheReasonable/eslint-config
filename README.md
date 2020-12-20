@@ -27,6 +27,14 @@ Then, in your ESLint config:
 
 ## Rules
 
+### [`indent: tab`](https://eslint.org/docs/rules/indent#tab)
+
+Using Tabs lets people choose their desired indent size while keeping the file
+size smaller. A double win!
+
+- `offsetTernaryExpressions: true`, because this is more correct visually
+- `SwitchCase: 1`, because this increases readability
+
 ### [`semi: always`](https://eslint.org/docs/rules/semi#always)
 
 Mandatory semicolons help people make less errors by not making them think about
