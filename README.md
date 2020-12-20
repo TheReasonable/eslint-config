@@ -29,7 +29,7 @@ Then, in your ESLint config:
 
 Every `--fix`able rule is always an `error`.
 
-### [`comma-dangle: always-multiline`](https://eslint.org/docs/rules/eqeqeq#always)
+### [`comma-dangle: always-multiline`](https://eslint.org/docs/rules/comma-dangle#always-multiline)
 
 Dangling commas at the end of multi-line literals (arrays, objects) can clean up
 your git diffs and save your from conflicts.
