@@ -37,5 +37,12 @@ module.exports = {
 			'error',
 			'always',
 		],
+		'semi-spacing': [
+			'error',
+			{
+				before: false,
+				after: true,
+			},
+		],
 	},
 };

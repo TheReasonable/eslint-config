@@ -72,3 +72,7 @@ Single quotes are easier to type and look cleaner.
 
 Mandatory semicolons help people make less errors by not making them think about
 where JavaScript will automatically insert them.
+
+### [`semi-spacing`](https://eslint.org/docs/rules/semi-spacing#before-false-after-true)
+
+Spaces are only allowed after semicolons, just like in written languages.
