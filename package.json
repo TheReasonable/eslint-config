@@ -1,0 +1,22 @@
+{
+	"name": "@nickkaramoff/eslint-config",
+	"version": "0.0.0",
+	"description": "Nikita Karamov's shareable ESLint config",
+	"license": "MIT",
+	"repository": "https://github.com/NickKaramoff/eslint-config",
+	"author": {
+		"name": "Nikita Karamov",
+		"email": "nick@karamoff.dev",
+		"url": "https://karamoff.dev"
+	},
+	"funding": "https://github.com/sponsors/NickKaramoff",
+	"keywords": [
+		"eslint",
+		"eslintconfig",
+		"code style"
+	],
+	"main": "index.js",
+	"peerDependencies": {
+		"eslint": ">=7"
+	}
+}
