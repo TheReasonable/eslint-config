@@ -25,6 +25,14 @@ module.exports = {
 		],
 		'no-extra-semi': 'error',
 		'no-trailing-spaces': 'error',
+		quotes: [
+			'error',
+			'single',
+			{
+				allowTemplateLiterals: false,
+				avoidEscape: true,
+			},
+		],
 		semi: [
 			'error',
 			'always',

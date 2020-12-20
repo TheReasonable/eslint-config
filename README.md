@@ -60,6 +60,14 @@ Extra semicolons are unnecessary and pollute source code.
 
 Trailing spaces are useless and only take space.
 
+### [`quotes: single`](https://eslint.org/docs/rules/quotes#single)
+
+Single quotes are easier to type and look cleaner.
+
+- `allowTemplateLiterals: false`, because it's unnecessary when you don't use
+  interpolation
+- `avoidEscape: true`, because escaping looks even less clean than double quotes
+
 ### [`semi: always`](https://eslint.org/docs/rules/semi#always)
 
 Mandatory semicolons help people make less errors by not making them think about
