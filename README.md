@@ -34,6 +34,11 @@ Every `--fix`able rule is always an `error`.
 Dangling commas at the end of multi-line literals (arrays, objects) can clean up
 your git diffs and save your from conflicts.
 
+### [`eol-last: always`](https://eslint.org/docs/rules/eol-last#rule-details)
+
+Add an EOL at the end of the files to be able to concatenate them easily or
+output them to terminal without errors.
+
 ### [`eqeqeq: always`](https://eslint.org/docs/rules/eqeqeq#always)
 
 `===` is typesafe and will save you tons of headache when comparing things in

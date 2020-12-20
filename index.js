@@ -7,6 +7,10 @@ module.exports = {
 			'error',
 			'always-multiline',
 		],
+		'eol-last': [
+			'error',
+			'always',
+		],
 		eqeqeq: [
 			'error',
 			'always',
