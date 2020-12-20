@@ -23,6 +23,10 @@ module.exports = {
 				SwitchCase: 1,
 			},
 		],
+		'linebreak-style': [
+			'error',
+			'unix',
+		],
 		'no-extra-semi': 'error',
 		'no-trailing-spaces': 'error',
 		quotes: [

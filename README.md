@@ -52,6 +52,12 @@ size smaller. A double win!
 - `offsetTernaryExpressions: true`, because this is more correct visually
 - `SwitchCase: 1`, because this increases readability
 
+### [`linebreak-style: unix`](https://eslint.org/docs/rules/linebreak-style#unix)
+
+Unix-style linebreaks are cleaner and take less space. IMO, LF should be a
+standard for line endings (and it _de facto_ is). Every major editor (even
+notepad.exe) supports it as of 2020.
+
 ### [`no-extra-semi`](https://eslint.org/docs/rules/no-extra-semi#rule-details)
 
 Extra semicolons are unnecessary and pollute source code.
