@@ -55,11 +55,3 @@ Extra semicolons are unnecessary and pollute source code.
 
 Mandatory semicolons help people make less errors by not making them think about
 where JavaScript will automatically insert them.
-
-## Credits
-
-This config was based off of [XO][xo], [Standard][standard] and [Airbnb][airbnb] shareable configs.
-
-[xo]: https://github.com/xojs
-[standard]: https://standardjs.com/
-[airbnb]: https://github.com/airbnb/javascript
