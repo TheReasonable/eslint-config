@@ -4,6 +4,8 @@
 
 This config enforces reasonable code style rules for style for JavaScript and
 TypeScript codebases.
+Each rule has a _reason_ why it was added
+(see [below](#rules)).
 
 ## Usage
 
@@ -22,6 +24,13 @@ Then, in your ESLint config:
   "extends": "@nickkaramoff"
 }
 ```
+
+## Rules
+
+### [`semi: always`](https://eslint.org/docs/rules/semi#always)
+
+Mandatory semicolons help people make less errors by not making them think about
+where JavaScript will automatically insert them.
 
 ## Credits
 
