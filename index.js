@@ -3,6 +3,10 @@
 module.exports = {
 	reportUnusedDisableDirectives: true,
 	rules: {
+		eqeqeq: [
+			'error',
+			'always'
+		],
 		indent: [
 			'error',
 			'tab',

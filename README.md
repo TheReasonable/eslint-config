@@ -27,6 +27,11 @@ Then, in your ESLint config:
 
 ## Rules
 
+### [`eqeqeq: always`](https://eslint.org/docs/rules/eqeqeq#always)
+
+`===` is typesafe and will save you tons of headache when comparing things in
+JavaScript. `null` is not ignored for consistency.
+
 ### [`indent: tab`](https://eslint.org/docs/rules/indent#tab)
 
 Using Tabs lets people choose their desired indent size while keeping the file
