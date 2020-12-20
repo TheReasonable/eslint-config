@@ -16,6 +16,9 @@
 		"code style"
 	],
 	"main": "index.js",
+	"files": [
+		"index.js"
+	],
 	"peerDependencies": {
 		"eslint": ">=7"
 	}
