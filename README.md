@@ -47,6 +47,10 @@ size smaller. A double win!
 - `offsetTernaryExpressions: true`, because this is more correct visually
 - `SwitchCase: 1`, because this increases readability
 
+### [`no-extra-semi: error`](https://eslint.org/docs/rules/no-extra-semi#rule-details)
+
+Extra semicolons are unnecessary and pollute source code.
+
 ### [`semi: always`](https://eslint.org/docs/rules/semi#always)
 
 Mandatory semicolons help people make less errors by not making them think about
