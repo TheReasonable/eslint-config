@@ -27,6 +27,11 @@ Then, in your ESLint config:
 
 ## Rules
 
+### [`comma-dangle: always-multiline`](https://eslint.org/docs/rules/eqeqeq#always)
+
+Dangling commas at the end of multi-line literals (arrays, objects) can clean up
+your git diffs and save your from conflicts.
+
 ### [`eqeqeq: always`](https://eslint.org/docs/rules/eqeqeq#always)
 
 `===` is typesafe and will save you tons of headache when comparing things in

@@ -3,9 +3,13 @@
 module.exports = {
 	reportUnusedDisableDirectives: true,
 	rules: {
+		'comma-dangle': [
+			'error',
+			'always-multiline',
+		],
 		eqeqeq: [
 			'error',
-			'always'
+			'always',
 		],
 		indent: [
 			'error',
@@ -13,11 +17,11 @@ module.exports = {
 			{
 				offsetTernaryExpressions: true,
 				SwitchCase: 1,
-			}
+			},
 		],
 		semi: [
 			'error',
-			'always'
+			'always',
 		],
-	}
+	},
 };
