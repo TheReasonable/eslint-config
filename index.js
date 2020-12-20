@@ -3,6 +3,7 @@
 module.exports = {
 	reportUnusedDisableDirectives: true,
 	rules: {
+		camelcase: 'error',
 		'comma-dangle': [
 			'error',
 			'always-multiline',

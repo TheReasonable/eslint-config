@@ -29,6 +29,11 @@ Then, in your ESLint config:
 
 Every `--fix`able rule is always an `error`.
 
+### [`camelcase`](https://eslint.org/docs/rules/camelcase#rule-details)
+
+camelCase is used by most JavaScript developers. I also find it more beautiful
+than any other naming convention.
+
 ### [`comma-dangle: always-multiline`](https://eslint.org/docs/rules/comma-dangle#always-multiline)
 
 Dangling commas at the end of multi-line literals (arrays, objects) can clean up
