@@ -49,6 +49,10 @@ output them to terminal without errors.
 `===` is typesafe and will save you tons of headache when comparing things in
 JavaScript. `null` is not ignored for consistency.
 
+### [`for-direction`](https://eslint.org/docs/rules/for-direction#rule-details)
+
+Saves you from `for` loops that run endlessly because of a faulty counter.
+
 ### [`indent: tab`](https://eslint.org/docs/rules/indent#tab)
 
 Using Tabs lets people choose their desired indent size while keeping the file

@@ -19,6 +19,7 @@ module.exports = {
 			'error',
 			'always',
 		],
+		'for-direction': 'error',
 		indent: [
 			'error',
 			'tab',
