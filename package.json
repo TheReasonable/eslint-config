@@ -19,6 +19,9 @@
 	"files": [
 		"index.js"
 	],
+	"scripts": {
+		"test": "npx eslint -c index.js *.js"
+	},
 	"peerDependencies": {
 		"eslint": ">=7"
 	}
