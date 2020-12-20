@@ -34,6 +34,11 @@ Every `--fix`able rule is always an `error`.
 Dangling commas at the end of multi-line literals (arrays, objects) can clean up
 your git diffs and save your from conflicts.
 
+### [`curly: all`](https://eslint.org/docs/rules/curly#all)
+
+Not using curly braces in `if`, `while` and other statements decreases the code
+readability significantly. Nesting is fine, but I go for consistency in code.
+
 ### [`eol-last: always`](https://eslint.org/docs/rules/eol-last#rule-details)
 
 Add an EOL at the end of the files to be able to concatenate them easily or
