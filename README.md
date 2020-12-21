@@ -94,6 +94,11 @@ notepad.exe) supports it as of 2020.
 
 Extra semicolons are unnecessary and pollute source code.
 
+### [`no-implicit-coercion`](https://eslint.org/docs/rules/no-implicit-coercion#rule-details)
+
+Shorthands like `!!foo` and `+bar` for type casting can be clean at the first
+glance but they are unclear, especially for the beginners.
+
 ### [`no-trailing-spaces`](https://eslint.org/docs/rules/no-trailing-spaces#rule-details)
 
 Trailing spaces are useless and only take space.

@@ -40,6 +40,7 @@ module.exports = {
 			'unix',
 		],
 		'no-extra-semi': 'error',
+		'no-implicit-coercion': 'error',
 		'no-trailing-spaces': 'error',
 		quotes: [
 			'error',
