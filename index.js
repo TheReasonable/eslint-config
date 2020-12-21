@@ -13,6 +13,10 @@ module.exports = {
 			'error',
 			'all',
 		],
+		'dot-location': [
+			'error',
+			'property',
+		],
 		'eol-last': [
 			'error',
 			'always',

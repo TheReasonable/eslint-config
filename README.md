@@ -49,6 +49,14 @@ error risk. This is not an enforcement though, but a recommendation.
 Not using curly braces in `if`, `while` and other statements decreases the code
 readability significantly. Nesting is fine, but I go for consistency in code.
 
+### [`dot-location: property`](https://eslint.org/docs/rules/dot-location#property)
+
+When the attribute dot is placed after the object, the subsequent property name
+on the new line seems out of place. Placing the dot at the property increases
+readability. Seeing, that there is neither a dot nor a semi near the object
+tells us to look at the next line, where the dot will explain the reason for the
+line break.
+
 ### [`eol-last: always`](https://eslint.org/docs/rules/eol-last#rule-details)
 
 Add an EOL at the end of the files to be able to concatenate them easily or
