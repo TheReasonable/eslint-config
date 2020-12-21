@@ -6,7 +6,7 @@ file.
 The format is based on [Keep a Changelog], and this project adheres to
 [Semantic Versioning].
 
-## [Unreleased]
+## [0.3.0] - 2020-12-21
 
 ### Added
 
@@ -45,7 +45,7 @@ Initial release.
 
 - `semi-always` rule
 
-[Unreleased]: https://github.com/nickkaramoff/eslint-config/compare/v0.2.0...HEAD
+[0.3.0]: https://github.com/nickkaramoff/eslint-config/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/nickkaramoff/eslint-config/compare/v0.1.1...v0.2.0
 [0.1.1]: https://github.com/NickKaramoff/eslint-config/compare/72fd5e913d65577c0e50f19ff16155d53613d4d0...v0.1.1
 
