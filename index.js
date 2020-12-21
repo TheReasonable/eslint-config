@@ -17,6 +17,7 @@ module.exports = {
 			'error',
 			'property',
 		],
+		'dot-notation': 'error',
 		'eol-last': [
 			'error',
 			'always',

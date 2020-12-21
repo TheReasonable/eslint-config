@@ -57,6 +57,11 @@ readability. Seeing, that there is neither a dot nor a semi near the object
 tells us to look at the next line, where the dot will explain the reason for the
 line break.
 
+### [`dot-notation`](https://eslint.org/docs/rules/dot-notation#rule-details)
+
+It is cleaner and more correct to access an object's properties via a dot. If
+you use JS objects as dictionaries, don't — there is a `Map` for that.
+
 ### [`eol-last: always`](https://eslint.org/docs/rules/eol-last#rule-details)
 
 Add an EOL at the end of the files to be able to concatenate them easily or
