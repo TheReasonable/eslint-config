@@ -20,12 +20,18 @@
 		"index.js"
 	],
 	"scripts": {
-		"test": "npx eslint -c index.js *.js"
+		"lint": "eslint -c index.js *.js",
+		"lint:fix": "yarn lint --fix",
+		"test": "uvu test"
 	},
 	"peerDependencies": {
 		"eslint": ">=7"
 	},
 	"publishConfig": {
 		"access": "public"
+	},
+	"devDependencies": {
+		"eslint": "^7.16.0",
+		"uvu": "^0.5.1"
 	}
 }
