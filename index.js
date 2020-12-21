@@ -3,6 +3,10 @@
 module.exports = {
 	reportUnusedDisableDirectives: true,
 	rules: {
+		'array-bracket-newline': [
+			'error',
+			'consistent',
+		],
 		camelcase: 'error',
 		'comma-dangle': [
 			'error',

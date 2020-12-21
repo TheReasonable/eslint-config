@@ -29,6 +29,11 @@ Then, in your ESLint config:
 
 Every `--fix`able rule is always an `error`.
 
+### [`array-bracket-newline: consistent`](https://eslint.org/docs/rules/array-bracket-newline#consistent)
+
+Consistency is key to code readability. Placing a line break in arrays increases
+readability, but for arrays like `[1, 2, 3]` it is unnecessary.
+
 ### [`camelcase`](https://eslint.org/docs/rules/camelcase#rule-details)
 
 camelCase is used by most JavaScript developers. I also find it more beautiful
