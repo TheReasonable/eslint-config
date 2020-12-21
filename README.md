@@ -119,3 +119,16 @@ where JavaScript will automatically insert them.
 ### [`semi-spacing`](https://eslint.org/docs/rules/semi-spacing#before-false-after-true)
 
 Spaces are only allowed after semicolons, just like in written languages.
+
+### [`wrap-iife: inside`](https://eslint.org/docs/rules/wrap-iife#inside)
+
+IIFEs can be confusing, but wrapping the function separately from the call (and
+`Function`'s methods) is IMO the cleanest solution.
+
+- `functionPrototypeMethods: true`, because methods of `Function` are, just like
+  the function calls, separate from the function body
+
+### [`yoda: never`](https://eslint.org/docs/rules/yoda#never)
+
+Yoda-style conditions are unnatural for the English language (which JS is based
+on)

@@ -61,5 +61,13 @@ module.exports = {
 				after: true,
 			},
 		],
+		'wrap-iife': [
+			'error',
+			'inside',
+			{
+				functionPrototypeMethods: true,
+			},
+		],
+		yoda: 'error',
 	},
 };
