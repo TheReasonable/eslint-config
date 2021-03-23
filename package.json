@@ -20,7 +20,7 @@
 		"index.js"
 	],
 	"scripts": {
-		"lint": "eslint -c index.js *.js",
+		"lint": "eslint -c index.js ./**/*.js",
 		"lint:fix": "yarn lint --fix",
 		"test": "uvu test"
 	},
