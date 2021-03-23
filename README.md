@@ -1,9 +1,12 @@
 # @nickkaramoff/eslint-config
 
-> My own [shareable ESLint config](https://eslint.org/docs/developer-guide/shareable-configs.html).
+> A reasonable [ESLint shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html).
 
 [![Get from NPM](https://badgen.net/npm/v/@nickkaramoff/eslint-config/?icon=npm&label)](https://www.npmjs.com/package/@nickkaramoff/eslint-config)
 [![Get from GitHub](https://badgen.net/github/release/NickKaramoff/eslint-config/?icon=github&label)](https://github.com/NickKaramoff/eslint-config/packages/687214)
+
+This config enforces reasonable code style rules for style for JavaScript and TypeScript codebases.
+Each rule has a _reason_ why it was added (see [below](#rules)).
 
 ## Usage
 
