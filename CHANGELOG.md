@@ -4,6 +4,13 @@ All notable changes to `@nickkaramoff/eslint-config` will be documented in this 
 
 The format is based on [Keep a Changelog], and this project adheres to [Semantic Versioning].
 
+## [Unreleased]
+
+### Changed
+
+- **BREAKING:** quotes are now forced to be double rather than single
+- reasons for rules are now moved to `index.js`
+
 ## [0.4.0] - 2021-03-23
 
 ### Changed
@@ -50,6 +57,7 @@ Initial release.
 
 - `semi-always` rule
 
+[Unreleased]: https://github.com/NickKaramoff/eslint-config/compare/v0.4.0...HEAD
 [0.4.0]: https://github.com/NickKaramoff/eslint-config/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/nickkaramoff/eslint-config/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/nickkaramoff/eslint-config/compare/v0.1.1...v0.2.0
