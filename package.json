@@ -2,7 +2,7 @@
 	"name": "@nickkaramoff/eslint-config",
 	"version": "0.3.0",
 	"description": "Nikita Karamov's shareable ESLint config",
-	"license": "MIT",
+	"license": "ISC",
 	"repository": "https://github.com/NickKaramoff/eslint-config",
 	"author": {
 		"name": "Nikita Karamov",

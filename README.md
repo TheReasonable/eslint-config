@@ -137,3 +137,7 @@ IIFEs can be confusing, but wrapping the function separately from the call (and
 
 Yoda-style conditions are unnatural for the English language (which JS is based
 on)
+
+## Licence
+
+ISC © 2020-2021, Nikita Karamov

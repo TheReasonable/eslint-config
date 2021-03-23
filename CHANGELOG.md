@@ -1,10 +1,15 @@
 # CHANGELOG
 
-All notable changes to `@nickkaramoff/eslint-config` will be documented in this
-file.
+All notable changes to `@nickkaramoff/eslint-config` will be documented in this file.
 
-The format is based on [Keep a Changelog], and this project adheres to
-[Semantic Versioning].
+The format is based on [Keep a Changelog], and this project adheres to [Semantic Versioning].
+
+## [0.4.0] - 2021-03-23
+
+### Changed
+
+- licence changed to ISC
+  - this doesn't pose any changes for people using, contributing, and/or modifying the code
 
 ## [0.3.0] - 2020-12-21
 
