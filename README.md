@@ -11,11 +11,11 @@ Each rule has a _reason_ why it was added (see [below](#rules)).
 ## Usage
 
 ```sh
-npm install --save-dev @nickkaramoff/eslint-config
+npm install --save-dev eslint @nickkaramoff/eslint-config
 ```
 
 ```sh
-yarn add --dev @nickkaramoff/eslint-config
+yarn add --dev eslint @nickkaramoff/eslint-config
 ```
 
 Then, in your ESLint config:
