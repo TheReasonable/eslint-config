@@ -139,6 +139,23 @@ IIFEs can be confusing, but wrapping the function separately from the call (and
 Yoda-style conditions are unnatural for the English language (which JS is based
 on)
 
+## Show others
+
+Use my ESLint config? Show it with a badge!
+
+[![Code Style: @nickkaramoff](https://badgen.net/badge/code%20style/@nickkaramoff/c23)](https://github.com/NickKaramoff/eslint-config)
+
+```md
+[![Code Style: @nickkaramoff](https://badgen.net/badge/code%20style/@nickkaramoff/c23)](https://github.com/NickKaramoff/eslint-config)
+```
+
+```html
+<a href="https://github.com/NickKaramoff/eslint-config">
+  <img src="https://badgen.net/badge/code%20style/@nickkaramoff/c23"
+       alt="Code Style: @nickkaramoff">
+</a>
+```
+
 ## Licence
 
 ISC © 2020-2021, Nikita Karamov
