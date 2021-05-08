@@ -2,7 +2,7 @@
 	"name": "@the-reasonable/eslint-config",
 	"version": "0.5.1",
 	"description": "The Reasonable ESLint shareable config",
-	"license": "ISC",
+	"license": "BSD-3-Clause",
 	"repository": "https://github.com/TheReasonable/eslint-config",
 	"author": {
 		"name": "Nikita Karamov",

@@ -49,4 +49,4 @@ Tell everyone you are being Reasonable and put this badge in your docs!
 
 ## Licence
 
-ISC © 2020-2021, Nikita Karamov
+[BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html) © 2020-2021, Nikita Karamov
