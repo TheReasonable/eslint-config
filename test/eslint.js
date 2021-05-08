@@ -1,3 +1,9 @@
+/*!
+ * (c) 2020-2021, Nikita Karamov
+ * SPDX-License-Identifier: BSD-3-Clause
+ * https://github.com/TheReasonable/eslint-config
+ */
+
 const assert = require("assert").strict;
 const { ESLint } = require("eslint");
 const { test } = require("uvu");
