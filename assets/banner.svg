@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="background" transform="matrix(1.0113,0,0,1,0,5.68434e-14)">
+        <rect x="0" y="0" width="1265.69" height="640" style="fill:white;"/>
+    </g>
+    <g transform="matrix(3.56136,0,0,3.56136,237.127,-204.993)">
+        <text x="2.355px" y="130.351px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:26.956px;fill:rgb(214,0,28);">T<tspan x="18.286px " y="130.351px ">h</tspan>e R<tspan x="70.863px " y="130.351px ">e</tspan>asonable</text>
+    </g>
+    <g transform="matrix(3.56136,0,0,3.56136,233.815,-70.4684)">
+        <text x="2.355px" y="130.351px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:40.434px;">eslin<tspan x="84.557px " y="130.351px ">t</tspan>-c<tspan x="133.806px 157.035px 179.476px " y="130.351px 130.351px 130.351px ">onﬁ</tspan>g</text>
+    </g>
+    <g transform="matrix(0.148148,0,0,0.148148,134,134.043)">
+        <g transform="matrix(1,0,0,1,-540,-540)">
+            <g transform="matrix(0.80399,0,0,0.80399,105.845,105.845)">
+                <g id="FG">
+                    <path id="Circle" d="M540,92.233C787.129,92.233 987.767,292.871 987.767,540C987.767,787.129 787.129,987.767 540,987.767C292.871,987.767 92.233,787.129 92.233,540C92.233,292.871 292.871,92.233 540,92.233ZM540,291.241C677.294,291.241 788.759,402.706 788.759,540C788.759,677.294 677.294,788.759 540,788.759C402.706,788.759 291.241,677.294 291.241,540C291.241,402.706 402.706,291.241 540,291.241Z" style="fill:rgb(214,0,28);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
