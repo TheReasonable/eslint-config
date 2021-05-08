@@ -31,7 +31,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"eslint": "^7.22.0",
+		"eslint": "^7.26.0",
 		"uvu": "^0.5.1"
 	}
 }
