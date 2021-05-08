@@ -1,7 +1,6 @@
 # ⭕️ The Reasonable / eslint-config
 
-[![Get from NPM](https://badgen.net/npm/v/@the-reasonable/eslint-config/?icon=npm&label)](https://www.npmjs.com/package/@the-reasonable/eslint-config)
-[![Get from GitHub](https://badgen.net/github/release/TheReasonable/eslint-config/?icon=github&label)](https://github.com/TheReasonable/eslint-config/packages/687214)
+[![Get from NPM](https://flat.badgen.net/npm/v/@the-reasonable/eslint-config/?icon=npm&labelColor=black&label)](https://www.npmjs.com/package/@the-reasonable/eslint-config)
 
 This [ESLint shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) enforces reasonable code style rules for style for JavaScript and TypeScript codebases.
 Each rule has a _reason_ why it was added (see [below](#rules)).
